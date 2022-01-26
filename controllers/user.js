@@ -56,7 +56,7 @@ exports.signUp = (req, res) => {
                             </tr>
                             <tr>
                                 <td style="text-align:center;">
-                                <a href="https://iwt-assignment.herokuapp.com" title="logo" target="_blank">
+                                <a href="https://date-event.herokuapp.com/" title="logo" target="_blank">
                                     <img width="100" src="https://media-exp1.licdn.com/dms/image/C4E03AQFyUsWb4KdFBg/profile-displayphoto-shrink_800_800/0/1634822860384?e=1648684800&v=beta&t=T6IWXys-ojGqMuFFo5K8jLv1Sswti6JuRgjloXIZhTE" title="logo" alt="logo" style="border-radius: 50px;">
                                 </a>
                                 </td>
@@ -79,7 +79,7 @@ exports.signUp = (req, res) => {
                                                 <p style="color:#455056; font-size:15px;line-height:24px; margin:0;">
                                                 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
                                                 </p>
-                                                <a href="https://iwt-assignment.herokuapp.com"
+                                                <a href="https://date-event.herokuapp.com/"
                                                     style="background:#20e277;text-decoration:none !important; font-weight:500; margin-top:35px; color:#fff;text-transform:uppercase; font-size:14px;padding:10px 24px;display:inline-block;border-radius:50px;">LET'S GO HURRAY</a>
                                             </td>
                                         </tr>
